@@ -1,0 +1,14 @@
+.env
+
+env
+cineflix/__pycache__
+authentication/__pycache__
+authentication/migrations
+
+
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+/media
+/staticfiles
